@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShwetankVashishtha/postman-newman-integration.git"
+    "url": "git+https://github.com/ShwetankVashishtha/Postman-API-Auto.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShwetankVashishtha/postman-newman-integration/issues"
+    "url": "https://github.com/ShwetankVashishtha/Postman-API-Auto/issues"
   },
-  "homepage": "https://github.com/ShwetankVashishtha/postman-newman-integration#readme",
+  "homepage": "https://github.com/ShwetankVashishtha/Postman-API-Auto#readme",
   "devDependencies": {
     "newman": "4.5.0",
     "newman-reporter-htmlextra": "1.7.4"
